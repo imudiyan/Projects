@@ -7,3 +7,4 @@
 - [Bike Sales Data Analysis (Excel)](https://github.com/imudiyan/Bike-Sales-Data-Analysis-Excel-)
 - [Banking Database]( https://github.com/imudiyan/BankingDatabase)
 - [Book exchange (PHP)](https://github.com/imudiyan/PHP-Project)
+- [Cuisine of Thunder Bay (HTML, CSS)](https://github.com/imudiyan/Cuisine-Of-Thunder-Bay)
